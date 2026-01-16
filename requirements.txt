@@ -1,0 +1,7 @@
+email-spam-classification/
+│
+├── spam_classification.ipynb
+├── spam_classifier.py
+├── dataset.csv
+├── requirements.txt
+└── README.md
