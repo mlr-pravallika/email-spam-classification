@@ -1,20 +1,29 @@
-# email-spam-classification
+# 📧 Email Spam Classification
 
-This project classifies emails as Spam or Ham using Machine Learning.
+This project classifies emails as **Spam** or **Ham** using Machine Learning and Natural Language Processing techniques.
 
-## Technologies Used
+## 🚀 Technologies Used
 - Python
 - Scikit-learn
 - Pandas
+- NumPy
 - Google Colab
 
-## Model
-- Naive Bayes / Logistic Regression
+## 🧠 Machine Learning Models
+- Multinomial Naive Bayes
+- Logistic Regression (optional)
 
-## Result
-Achieved high accuracy on test dataset.
+## 🔍 Features
+- Text preprocessing (lowercasing, stopword removal)
+- TF-IDF Vectorization
+- Model training and testing
+- Performance evaluation using accuracy, confusion matrix, and classification report
 
-## How to Run
-1. Clone the repo
-2. Open the notebook
-3. Run all cells
+## 📊 Results
+- High accuracy achieved on test dataset
+- Efficient spam detection for unseen emails
+
+## ▶️ How to Run
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/email-spam-classification.git
