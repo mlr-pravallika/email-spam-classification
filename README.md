@@ -26,4 +26,4 @@ This project classifies emails as **Spam** or **Ham** using Machine Learning and
 ## ▶️ How to Run
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/email-spam-classification.git
+   git clone https://mlr-pravallika/email-spam-classification.git
